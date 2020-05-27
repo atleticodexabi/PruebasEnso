@@ -1,0 +1,4 @@
+17/09/2021;tortilla española;crema de verduras;sopa de pollo;lasaña;pollo asado;ternera guisada;flan de huevo;tarta de queso;manzana
+14/04/2020;tortilla española;crema de verduras;sopa de pollo;lasaña;pollo asado;ternera guisada;flan de huevo;tarta de queso;Macedonia de frutas
+27/04/2020;tortilla;crema de verduras;sopa de pollo;lasaña;ternera guisada;pollo asado;flan;tarta de queso;manzana
+28/04/2020;tortilla;crema de verduras;sopa de pollo;lasaña;ternera guisada;pollo asado;flan;tarta de queso;manzana

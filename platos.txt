@@ -1,0 +1,10 @@
+tortilla;tortilla española
+crema de verduras;crema de calabacín, zanahoria, calabaza y puerro
+sopa de pollo;sopa de pollo con fideos
+lasaña;lasaña boloñesa
+pollo asado;pollo asado al horno
+ternera guisada;ternera guisada con guarnición de verduras
+flan;flan de huevo con caramelo y nata
+tarta de queso;tarta de queso fría con mermelada de arándanos
+manzana;manzana golden
+macedonia;macedonia de frutas de temporada

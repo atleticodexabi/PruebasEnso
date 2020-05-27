@@ -1,0 +1,21 @@
+101;201;101;tortilla;pollo asado;flan de huevo;VINO;false;false;false;20/04/2020 14:10;20/04/2020 14:15
+102;202;102;tortilla;pollo asado;flan de huevo;VINO;false;false;false;21/04/2020 14:10;21/04/2020 14:15
+103;203;103;tortilla;pollo asado;flan de huevo;AGUA;false;false;false;21/04/2020 15:10;21/04/2020 15:15
+104;204;104;tortilla;pollo asado;flan de huevo;VINO;false;false;false;22/04/2020 16:10;22/04/2020 16:15
+105;205;105;tortilla;pollo asado;flan de huevo;REFRESCO;false;false;false;22/04/2020 16:10;22/04/2020 16:15
+106;206;106;tortilla;lasaña;manzana;CERVEZA;false;false;false;28/04/2020 02:42;
+107;207;107;tortilla;lasaña;manzana;CERVEZA;false;false;false;28/04/2020 02:43;
+108;750;850;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 02:48;28/04/2020 02:50
+109;564;162;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 02:52;28/04/2020 02:59
+110;572;642;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 02:52;28/04/2020 02:55
+112;890;159;tortilla;lasaña;manzana;CERVEZA;false;false;false;28/04/2020 03:07;
+113;104;943;sopa de pollo;lasaña;flan;AGUA;false;false;false;28/04/2020 16:08;28/04/2020 16:09
+114;750;182;sopa de pollo;lasaña;flan;AGUA;false;false;false;28/04/2020 16:08;28/04/2020 16:09
+115;470;987;sopa de pollo;lasaña;flan;AGUA;false;false;false;28/04/2020 16:09;28/04/2020 16:16
+116;472;1083;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 16:10;28/04/2020 16:13
+117;866;364;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 16:11;28/04/2020 16:12
+118;575;517;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 16:12;28/04/2020 16:22
+119;479;809;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 16:15;28/04/2020 16:17
+120;845;113;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 16:16;28/04/2020 16:22
+121;780;427;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 16:16;28/04/2020 16:17
+122;508;420;tortilla;lasaña;manzana;REFRESCO;false;false;false;28/04/2020 16:22;28/04/2020 16:26

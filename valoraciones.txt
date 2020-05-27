@@ -1,0 +1,11 @@
+101;lasaña;5
+102;pollo asado;5
+103;tortilla;4
+104;pollo asado;8
+105;tortilla;10
+106;tortilla;10
+107;sopa de pollo;3
+108;tortilla;10
+109;sopa de pollo;5
+110;sopa de pollo;5
+111;sopa de pollo;5
